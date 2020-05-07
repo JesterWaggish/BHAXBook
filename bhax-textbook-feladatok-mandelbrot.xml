@@ -1,0 +1,75 @@
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <info>
+        <title>Helló, Mandelbrot!</title>
+        <keywordset>
+            <keyword/>
+        </keywordset>
+    </info>
+    <section xml:id="bhax-textbook-feladatok-mandelbrot.Mandelbrot">
+        <title>A Mandelbrot halmaz</title>
+        <para>
+            Írj olyan C programot, amely kiszámolja a Mandelbrot halmazt!     
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/pYSu1gsoiXk">https://youtu.be/pYSu1gsoiXk</link>
+        </para>
+        <para>
+            Megoldás forrása:                
+                 <link xlink:href="Mandelbrot/halmaz/mandelpngt.c++">
+                <filename>Mandelbrot/halmaz/mandelpngt.c++</filename>
+                </link>           
+        </para>
+    </section>        
+        
+    <section>
+        <title>A Mandelbrot halmaz a <filename>std::complex</filename> osztállyal</title>
+        <para>
+            Írj olyan C++ programot, amely kiszámolja a Mandelbrot halmazt!                     
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/gvaqijHlRUs">https://youtu.be/gvaqijHlRUs</link>
+        </para>
+        <para>
+            Megoldás forrása: <link xlink:href="Mandelbrot/halmaz/3.1.2.cpp"><filename>Mandelbrot/halmaz/3.1.2.cpp</filename></link>
+        </para>     
+    </section>        
+                
+    <section>
+        <title>Biomorfok</title>
+        <para>
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/IJMbgRzY76E">https://youtu.be/IJMbgRzY76E</link>
+        </para>
+        <para>
+            Megoldás forrása: <link xlink:href="Mandelbrot/halmaz/3.1.3.cpp"><filename>Mandelbrot/halmaz/3.1.3.cpp</filename></link>
+        </para>                                                                           
+    </section>                     
+
+    <section>
+        <title>A Mandelbrot halmaz CUDA megvalósítása</title>
+        <para>
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/pYSu1gsoiXk">https://youtu.be/pYSu1gsoiXk</link>
+        </para>
+        <para>
+            Megoldás forrása: <link xlink:href="Mandelbrot/halmaz/mandelpngc_60x60_100.cu"><filename>Mandelbrot/halmaz/mandelpngc_60x60_100.cu</filename></link>
+        </para>
+    </section>                     
+
+    <section>
+        <title>Mandelbrot nagyító és utazó C++ nyelven</title>
+        <para>
+            Építs GUI-t a Mandelbrot algoritmusra, lehessen egérrel nagyítani egy területet, illetve egy pontot
+            egérrel kiválasztva vizualizálja onnan a komplex iteréció bejárta z<subscript>n</subscript> komplex számokat!
+        </para>
+        <para>
+            Megoldás videó (24:53-tól): <link xlink:href="https://youtu.be/5ExCFvCfsMY?t=1493">https://youtu.be/5ExCFvCfsMY?t=1493</link>
+        </para>
+        <para>
+            Megoldás forrása a Mandelbrot/halmaz/Mandel_mento folderben.
+        </para>
+    </section>                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+</chapter>                

@@ -1,0 +1,76 @@
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <info>
+        <title>Helló, Turing!</title>
+        <keywordset>
+            <keyword/>
+        </keywordset>
+    </info>
+    <section>
+        <title>Végtelen ciklus</title>
+        <para>
+            Írj olyan C végtelen ciklusokat, amelyek 0 illetve 100 százalékban dolgoztatnak egy magot és egy olyat, amely  
+            100 százalékban minden magot!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/IyZtsq1E0xc">https://youtu.be/IyZtsq1E0xc</link>
+        </para>
+        <para>
+            Megoldás forrása a Turing mappában.
+        </para>
+
+    </section>        
+                     
+    <section>
+        <title>Változók értékének felcserélése</title>
+        <para>
+            Írj olyan C programot, amely felcseréli két változó értékét, bármiféle logikai utasítás vagy kifejezés
+            nasználata nélkül!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/IyZtsq1E0xc">https://youtu.be/IyZtsq1E0xc</link>
+        </para>
+        <para>
+            Megoldás forrása a Turing mappában.
+        </para>
+    </section>                     
+
+    <section>
+        <title>Labdapattogás</title>
+        <para>
+            Először if-ekkel, majd bármiféle logikai utasítás vagy kifejezés használata nélkül írj egy olyan programot, ami egy labdát pattogtat a karakteres konzolon!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/2zYM1ol5OQY">https://youtu.be/2zYM1ol5OQY</link>
+        </para>
+        <para>
+            Megoldás forrása a Turing mappában.
+        </para>
+    </section>                     
+
+    <section>
+        <title>Szóhossz és a Linus Torvalds féle BogoMIPS</title>
+        <para>
+            Írj egy programot, ami megnézi, hogy hány bites a szó a gépeden, azaz mekkora az <type>int</type> mérete.
+            Használd ugyanazt a while ciklus fejet, amit Linus Torvalds a BogoMIPS rutinjában! 
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/IyZtsq1E0xc">https://youtu.be/IyZtsq1E0xc</link>
+        </para>
+        <para>
+            Megoldás forrása a Turing mappában.
+        </para>
+    </section>                     
+
+    <section>
+        <title>Helló, Google!</title>
+        <para>
+            Írj olyan C programot, amely egy 4 honlapból álló hálózatra kiszámolja a négy lap Page-Rank értékét! (C++-ban is elkészült!)
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/IyZtsq1E0xc">https://youtu.be/IyZtsq1E0xc</link>
+        </para>
+        <para>
+            Megoldás forrása a Turing mappában.
+        </para>
+    </section>
+</chapter>                

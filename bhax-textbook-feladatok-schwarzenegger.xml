@@ -1,0 +1,35 @@
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <info>
+        <title>Helló, Schwarzenegger!</title>
+        <keywordset>
+            <keyword/>
+        </keywordset>
+    </info>
+    <section>
+        <title>MNIST I.-II.</title>
+        <para>
+            Megoldás videók
+            <itemizedlist>
+                <listitem>
+                    <para>
+                    Első rész: <link xlink:href="https://youtu.be/qRnePIgqTl8">https://youtu.be/qRnePIgqTl8</link>
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Második rész: <link xlink:href="https://youtu.be/93pzl34v63c">https://youtu.be/93pzl34v63c</link>
+                    </para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <para>
+            Megoldás forrása a Schwarzenegger folderben.
+        </para>
+    </section>        
+    <section>
+        <title>Extrák</title>
+        <para>
+            Darknet YOLO forrása: <link xlink:href="https://pjreddie.com/darknet/yolo/">https://pjreddie.com/darknet/yolo/</link>
+        </para>
+    </section>        
+</chapter>                

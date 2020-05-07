@@ -1,0 +1,48 @@
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <info>
+        <title>Helló, Welch!</title>
+        <keywordset>
+            <keyword/>
+        </keywordset>
+    </info>
+    <section>
+        <title>Első osztályom</title>
+        <para>
+            Valósítsd meg C++-ban és Java-ban az módosított polártranszformációs algoritmust! A matek háttér 
+            teljesen irreleváns, csak annyiban érdekes, hogy az algoritmus egy számítása során két normálist
+            számol ki, az egyiket elspájzolod és egy további logikai taggal az osztályban jelzed, hogy van vagy
+            nincs eltéve kiszámolt szám.
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/cfQ_94f5TyI">https://youtu.be/cfQ_94f5TyI</link>
+        </para>
+        <para>
+            Megoldás forrása a Welch/polargen nevű folderben.
+        </para>
+    </section>        
+
+    <section>
+        <title>Binfa program</title>
+        <para>
+            Valósítsd meg C-ben az LZW algoritmus fa-építését! Járd be az előző (inorder bejárású) fát pre- és posztorder is! Az LZW algoritmust ültesd át egy C++ osztályba, legyen egy Tree és egy beágyazott Node osztálya. A gyökér csomópont legyen kompozícióban a fával! Írd át az előző forrást, hogy a gyökér csomópont ne kompozícióban, csak aggregációban legyen a fával! Írj az előző programhoz mozgató konstruktort és értékadást, a mozgató konstruktor legyen a mozgató értékadásra alapozva!
+        </para>
+        <para>
+            Megoldás videók
+            <itemizedlist>
+                <listitem>
+                    <para>
+                    Első rész (18:43-tól): <link xlink:href="https://youtu.be/cfQ_94f5TyI?t=1123">https://youtu.be/cfQ_94f5TyI?t=1123</link>
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Második rész: <link xlink:href="https://youtu.be/F5GNFz_ETXE">https://youtu.be/F5GNFz_ETXE</link>
+                    </para>
+                </listitem>
+            </itemizedlist>
+        </para>
+        <para>
+            Megoldás forrása a Welch/binfa nevű folderben.
+        </para>
+    </section>                                                                                                                                          
+</chapter>                

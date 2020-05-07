@@ -1,0 +1,67 @@
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0" xml:lang="hu">
+    <info>
+        <title>Helló, Caesar!</title>
+        <keywordset>
+            <keyword/>
+        </keywordset>
+    </info>
+    <section>
+        <title><type>double **</type> háromszögmátrix</title>
+        <para>
+            Írj egy olyan <function>malloc</function> és <function>free</function> párost használó C programot, amely helyet foglal egy alsó háromszög mátrixnak a szabad tárban!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/LeSjCdEn0w8">https://youtu.be/LeSjCdEn0w8</link>.
+        </para>
+        <para>
+            Megoldás forrása a Caesar mappában.
+        </para>
+
+        <figure>
+            <title>A <type>double **</type> háromszögmátrix a memóriában</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="img/doublecscs.png" scale="50" />
+                </imageobject>
+                <textobject>
+                    <phrase>A <type>double **</type> háromszögmátrix a memóriában</phrase>
+                </textobject>
+            </mediaobject>
+        </figure>                             
+    </section>        
+    <section>
+        <title>C EXOR titkosító</title>
+        <para>
+            Írj egy EXOR titkosítót C-ben!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/XlkI5catrMA">https://youtu.be/XlkI5catrMA</link> és <link xlink:href="https://youtu.be/upzV7jtwYZo">https://youtu.be/upzV7jtwYZo</link>
+        </para>
+        <para>
+            Megoldás forrása a Caesar mappában.
+        </para>
+    </section>        
+      
+    <section xml:id="bhax-textbook-feladatok-caesar.EXOR-toro">
+        <title>C EXOR törő</title>
+        <para>
+            Írj egy olyan C programot, amely megtöri az előző feladatban előállított titkos szövegeket!
+        </para>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/XlkI5catrMA">https://youtu.be/XlkI5catrMA</link> és <link xlink:href="https://youtu.be/upzV7jtwYZo">https://youtu.be/upzV7jtwYZo</link>
+        </para>
+        <para>
+            Megoldás forrása a Caesar mappában.
+        </para>
+    </section>        
+     
+    <section>
+        <title>Hiba-visszaterjesztéses perceptron</title>
+        <para>
+            Megoldás videó: <link xlink:href="https://youtu.be/LeSjCdEn0w8">https://youtu.be/LeSjCdEn0w8</link> és <link xlink:href="https://youtu.be/RUhaFeCQaEE">https://youtu.be/RUhaFeCQaEE</link>
+        </para>
+        <para>
+            Megoldás forrása a Caesar mappában.
+        </para>
+    </section>                                                                                                            
+</chapter>                
